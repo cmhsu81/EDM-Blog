@@ -1,0 +1,35 @@
+.logo{
+	background-image: url("tree.gif");
+	background-size: 50% 100%;
+}
+.nav-link{
+	color: #00AA88;
+}
+.nav-link:hover { 
+	color: #FF0000;
+    background-color: #FFFFBB;
+}
+
+.nav-link2{
+	color: #FFC300;
+}
+.nav-link2:hover { 
+	color: #BA44EB;
+  background-color: #B9F4DE;
+  text-decoration:none;
+}
+
+
+.title{
+  color: #000000;
+}
+
+.title:hover{
+  color: #CB4335;
+  text-decoration:none;
+}
+
+.weblink:hover{
+  color: #CB4335;
+  text-decoration:none;
+}
